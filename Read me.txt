@@ -1,0 +1,23 @@
+Note:
+
++ For new buyers: Using install.zip to get new installation or re-install.
+
++ For old buyers: Please go to https://smartpanelsmm.com/docs/smartpanel.php for How to update
+
++ You should backup the current Version before updating to new version.
+
++ Clear Your Browser Cache after updating.
+
+
+******************FOR OLD CLIENTS*********************
+- DELETE these folders in this path: 
+ + app\modules: api_provider, custom_page, file_manager, language, module, news, notifaction, payments, payments_bonuses, subscriptions, users
+
+
+
+If you are using the older version as 3.2, 3.3, 3.4 and you want to upgrade to 4.0, 
+please contact to this email: tuyennguyen2906@gmail.com for more details
+
+
+
+ 
